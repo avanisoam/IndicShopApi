@@ -16,7 +16,7 @@ namespace IndicShopApi.Controllers
             {
                 new Product{
                     Id = 1,
-                    Title = "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+                    Title = "Bag - Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
                     Price = 109.95,
                     Description = "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
                     Category = "men's clothing",
@@ -29,7 +29,7 @@ namespace IndicShopApi.Controllers
                 },
                 new Product{
                     Id = 2,
-                    Title = "Mens Casual Premium Slim Fit T-Shirts ",
+                    Title = "B&W T-Shirt-Mens Casual Premium Slim Fit T-Shirts ",
                     Price = 22.35,
                     Description = "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
                     Category = "men's clothing",
@@ -42,7 +42,7 @@ namespace IndicShopApi.Controllers
                 },
                 new Product{
                     Id = 3,
-                    Title = "Mens Cotton Jacket",
+                    Title = "Jacket - Mens Cotton Jacket",
                     Price = 55.99,
                     Description = "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
                     Category = "men's clothing",
@@ -55,7 +55,7 @@ namespace IndicShopApi.Controllers
                 },
                 new Product{
                     Id = 4,
-                    Title = "Mens Casual Slim Fit",
+                    Title = "Blue-T-Shirt- Mens Casual Slim Fit",
                     Price = 55.99,
                     Description = "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
                     Category = "men's clothing",

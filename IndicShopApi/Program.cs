@@ -16,6 +16,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+// http://192.168.0.232:5003/swagger/index.html
+
+app.Urls.Add("http://192.168.0.232:5003");
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
