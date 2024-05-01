@@ -1,0 +1,6 @@
+@IndicShopApi_HostAddress = http://localhost:5017
+
+GET {{IndicShopApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
